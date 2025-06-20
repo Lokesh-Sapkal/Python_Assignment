@@ -1,7 +1,6 @@
 # Python_Assignment
-To practice various problem statement on basics , automation in python 
+To practice various problem statement on basics , automation in python
 
-<<<<<<< HEAD
 # Python Repository 🚀
 
 Welcome to my personal programming practice repository!  
@@ -51,4 +50,3 @@ Lokesh Sapkal
 📚 MCA Student | 💻 Aspiring Developer | ⚙ Passionate about mastering logic
 
 Thank you for visiting! 🌟
->>>>>>> c90665cd2a14dee0fc3b41d462e32c41964a7848
